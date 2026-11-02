@@ -43,14 +43,14 @@ I enjoy turning ideas into practical software — from data-driven applications 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
+- **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
+  <sub>HTML</sub>
+
 - **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
 
 - **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
   <sub>TypeScript</sub>
-
-- **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
-  <sub>HTML</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## 🛠️ Technology Toolbox
