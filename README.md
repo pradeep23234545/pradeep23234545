@@ -1,110 +1,81 @@
-Hi there, I'm Pradeep Yedage 👋
+<!--
+  Pradeep Yedage | GitHub Profile
+  The project list is maintained automatically by GitHub Actions.
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,8A2BE2,4B0082&height=220&section=header&text=Pradeep%20Yedage&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:164E63,100:0E7490&text=PRADEEP%20YEDAGE&fontSize=42&fontColor=F8FAFC&fontAlignY=42&desc=BUILDING%20IDEAS%20INTO%20WORKING%20SOFTWARE&descAlignY=68&descSize=13" width="100%" alt="Pradeep Yedage — Building ideas into working software"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Computer+Science+%26+Business+Systems+Student;Python+%7C+Java+%7C+Web+Development;Exploring+AI%2C+Automation+%26+Web3;Learning+by+building+real-world+projects" alt="Rotating profile introduction"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/pradeep-yedage-b474a0325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pradeep23234545@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/pradeep23234545"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;Full+Stack+Learner;Open+Source+Enthusiast;Always+Learning+Something+New"/>
-</p>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/CS%20Student-RAIT-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Maharashtra-India-4B0082?style=for-the-badge"/>
-<a href="mailto:pradeep23234545@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge"/></a>
-<a href="https://www.linkedin.com/in/pradeep-yedage-b474a0325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge"/></a>
-<a href="https://github.com/pradeep23234545"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge"/></a>
-</p>
+## 👨‍💻 About Me
 
-About Me
+I'm **Pradeep Yedage**, a Computer Science and Business Systems student at **Ramrao Adik Institute of Technology, DY Patil University, Navi Mumbai**.
 
-Computer Science student passionate about software engineering, AI, and full-stack development.
+I enjoy turning ideas into practical software — from data-driven applications and web experiences to AI-powered tools. I believe in learning through experimentation, building projects, and improving them one iteration at a time.
 
-🌱 Learning Data Structures, AI and Web Development
+- 🎓 Studying **Computer Science & Business Systems**
+- 💡 Interested in **Artificial Intelligence, Business Systems, Automation, and Web3**
+- 🧩 Building with **Python, Java, C, JavaScript, HTML, CSS, and SQL**
+- 🌱 Strengthening my foundations in **Data Structures, AI/ML, and full-stack development**
+- 🤝 Interested in learning opportunities, open-source contributions, and collaborative projects
 
-💻 Skills: Python, Java, C, HTML, CSS, JavaScript, MySQL
+## 🧭 Areas I'm Exploring
 
-🤝 Open to internships and collaborations
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Exploring-7C3AED?style=flat-square" alt="AI and Machine Learning"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Building-0891B2?style=flat-square" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/Automation-Experimenting-0F766E?style=flat-square" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Web3%20%26%20Blockchain-Learning-475569?style=flat-square" alt="Web3 and Blockchain"/>
+</div>
 
-🚀 Building practical projects
+## 🚀 Projects & Repositories
 
-Tech Stack
+*Automatically refreshed from my public GitHub repositories. Recent projects appear here without manually editing this section.*
 
+<!-- AUTO-PROJECTS:START -->
+### ⭐ Recent public projects
 
+- **[Steam Game Discovery System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — Streamlit dashboard for game discovery, personalized recommendations, comparisons, and interactive analytics.  
+  <sub>Python · Streamlit · Pandas · Plotly · Scikit-learn</sub>
 
-Featured Projects
+- **[AI-Based Gmail Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — Email classification and prioritization agent with explainable decisions, ML model comparison, and a feedback loop.  
+  <sub>Python · Machine Learning · TF-IDF · Gmail API</sub>
+<!-- AUTO-PROJECTS:END -->
 
-<details>
-<summary><b>Steam Game Discovery System</b></summary>
+## 🛠️ Technology Toolbox
 
-Recommendation system built using Python and Streamlit.
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql" alt="Python, Java, C, JavaScript, HTML, CSS and MySQL"/>
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code and Linux"/>
+</div>
 
-Item
+## 📊 GitHub Snapshot
 
-Details
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeep23234545&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep23234545&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=pradeep23234545&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
-Stack
+## 🤝 Let's Connect
 
-Python, Streamlit
+I'm always glad to connect with fellow learners, developers, and people working on interesting ideas.
 
-Focus
-
-Recommendation Engine
-
-Repository
-
-https://github.com/pradeep23234545
-
-</details>
-
-GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeep23234545&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep23234545&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pradeep23234545&theme=tokyonight"/>
-</p>
-
-Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep23234545&theme=tokyo-night"/>
-</p>
-
-Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pradeep23234545&theme=tokyonight&no-frame=true"/>
-</p>
-
-Current Focus
-
-learning:
-  - Artificial Intelligence
-  - Data Structures & Algorithms
-  - Full Stack Development
-
-building:
-  - Streamlit Projects
-  - Open Source Portfolio
-
-open_to:
-  - Internships
-  - Collaboration
-
-Connect
-
-GitHub: https://github.com/pradeep23234545
-
-LinkedIn: https://www.linkedin.com/in/pradeep-yedage-b474a0325/
-
-Email: pradeep23234545@gmail.com
-
-"Build consistently. Learn continuously."
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD,8A2BE2,4B0082&height=120&section=footer"/>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pradeep-yedage-b474a0325/">LinkedIn</a> ·
+  <a href="mailto:pradeep23234545@gmail.com">Email</a> ·
+  <a href="https://github.com/pradeep23234545">GitHub</a>
+  <br/><br/>
+  <sub>“Build with curiosity. Improve with consistency.”</sub>
+</div>
