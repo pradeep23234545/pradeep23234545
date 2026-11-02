@@ -46,9 +46,6 @@ I enjoy turning ideas into practical software — from data-driven applications 
 - **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
 
-- **[Blood_Bank_Management_System](https://github.com/pradeep23234545/Blood_Bank_Management_System)** — A public project from my GitHub portfolio.
-  <sub>Explore the repository for details</sub>
-
 - **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
   <sub>TypeScript</sub>
 
