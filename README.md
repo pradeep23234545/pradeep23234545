@@ -43,11 +43,17 @@ I enjoy turning ideas into practical software — from data-driven applications 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
-- **[Steam Game Discovery System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — Streamlit dashboard for game discovery, personalized recommendations, comparisons, and interactive analytics.  
-  <sub>Python · Streamlit · Pandas · Plotly · Scikit-learn</sub>
+- **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
+  <sub>Python</sub>
 
-- **[AI-Based Gmail Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — Email classification and prioritization agent with explainable decisions, ML model comparison, and a feedback loop.  
-  <sub>Python · Machine Learning · TF-IDF · Gmail API</sub>
+- **[Blood_Bank_Management_System](https://github.com/pradeep23234545/Blood_Bank_Management_System)** — A public project from my GitHub portfolio.
+  <sub>Explore the repository for details</sub>
+
+- **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
+  <sub>TypeScript</sub>
+
+- **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
+  <sub>HTML</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## 🛠️ Technology Toolbox
