@@ -43,6 +43,9 @@ I enjoy turning ideas into practical software — from data-driven applications 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
+- **[tern-search](https://github.com/pradeep23234545/tern-search)** — A self-hosted private search engine powered by SearXNG, Docker, and Valkey, featuring a privacy-focused search experience with a custom Chrome-inspired, responsive interface.
+  <sub>CSS</sub>
+
 - **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
   <sub>HTML</sub>
 
