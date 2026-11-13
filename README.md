@@ -43,6 +43,12 @@ I enjoy turning ideas into practical software — from data-driven applications 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
+- **[AI-Research-Agent](https://github.com/pradeep23234545/AI-Research-Agent)** — An autonomous deep-research agent that searches the live web and creates structured Markdown reports with source citations, powered by Groq and DuckDuckGo.
+  <sub>Python · Groq · DuckDuckGo · ReAct</sub>
+
+- **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — An AI-powered tool that turns a resume, GitHub profile, and LinkedIn export into an editable portfolio website with templates and publishing.
+  <sub>Next.js · React · TypeScript · Supabase · Gemini</sub>
+
 - **[tern-search](https://github.com/pradeep23234545/tern-search)** — A self-hosted private search engine powered by SearXNG, Docker, and Valkey, featuring a privacy-focused search experience with a custom Chrome-inspired, responsive interface.
   <sub>CSS</sub>
 
