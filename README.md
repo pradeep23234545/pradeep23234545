@@ -27,6 +27,18 @@ I enjoy turning ideas into practical software — from data-driven applications 
 - 🌱 Strengthening my foundations in **Data Structures, AI/ML, and full-stack development**
 - 🤝 Interested in learning opportunities, open-source contributions, and collaborative projects
 
+## 🌐 My Portfolio
+
+Explore my personal portfolio to learn more about me, see my featured projects, and discover the technologies and skills I'm developing.
+
+<div align="center">
+  <a href="https://pradeep23234545.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0E7490?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit my portfolio"/>
+  </a>
+  <br/>
+  <a href="https://pradeep23234545.github.io/">https://pradeep23234545.github.io/</a>
+</div>
+
 ## 🧭 Areas I'm Exploring
 
 <div align="center">
