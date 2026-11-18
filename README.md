@@ -55,14 +55,20 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
+- **[retail-demand-forecasting](https://github.com/pradeep23234545/retail-demand-forecasting)** — DemandCast: ML retail demand forecasting with an interactive Streamlit dashboard, what-if scenarios and inventory alerts.
+  <sub>Jupyter Notebook</sub>
+
+- **[tern-search](https://github.com/pradeep23234545/tern-search)** — A self-hosted private search engine powered by SearXNG, Docker, and Valkey, featuring a privacy-focused search experience with a custom Chrome-inspired, responsive interface.
+  <sub>JavaScript</sub>
+
+- **[pradeep23234545.github.io](https://github.com/pradeep23234545/pradeep23234545.github.io)** — My personal portfolio website
+  <sub>JavaScript</sub>
+
 - **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — A public project from my GitHub portfolio.
   <sub>TypeScript</sub>
 
 - **[AI-Research-Agent](https://github.com/pradeep23234545/AI-Research-Agent)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
-
-- **[tern-search](https://github.com/pradeep23234545/tern-search)** — A self-hosted private search engine powered by SearXNG, Docker, and Valkey, featuring a privacy-focused search experience with a custom Chrome-inspired, responsive interface.
-  <sub>JavaScript</sub>
 
 - **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
   <sub>HTML</sub>
