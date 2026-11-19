@@ -55,6 +55,15 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
+- **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
+  <sub>Python</sub>
+
+- **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
+  <sub>Python</sub>
+
+- **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — AI-powered platform that turns a resume, GitHub profile and LinkedIn export into a polished portfolio website.
+  <sub>TypeScript</sub>
+
 - **[retail-demand-forecasting](https://github.com/pradeep23234545/retail-demand-forecasting)** — DemandCast: ML retail demand forecasting with an interactive Streamlit dashboard, what-if scenarios and inventory alerts.
   <sub>Jupyter Notebook</sub>
 
@@ -64,20 +73,11 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
 - **[pradeep23234545.github.io](https://github.com/pradeep23234545/pradeep23234545.github.io)** — My personal portfolio website
   <sub>JavaScript</sub>
 
-- **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — A public project from my GitHub portfolio.
-  <sub>TypeScript</sub>
-
 - **[AI-Research-Agent](https://github.com/pradeep23234545/AI-Research-Agent)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
 
 - **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
   <sub>HTML</sub>
-
-- **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
-  <sub>Python</sub>
-
-- **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
-  <sub>TypeScript</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## 🛠️ Technology Toolbox
