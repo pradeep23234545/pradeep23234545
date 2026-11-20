@@ -55,7 +55,7 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
-- **[AI_Based_GMAIL_Classifier](https://github.com/pradeep23234545/AI_Based_GMAIL_Classifier)** — A public project from my GitHub portfolio.
+- **[Smart-Inbox-to-Calendar-Assistant](https://github.com/pradeep23234545/Smart-Inbox-to-Calendar-Assistant)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
 
 - **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
