@@ -55,10 +55,10 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
 <!-- AUTO-PROJECTS:START -->
 ### ⭐ Recent public projects
 
-- **[Smart-Inbox-to-Calendar-Assistant](https://github.com/pradeep23234545/Smart-Inbox-to-Calendar-Assistant)** — A public project from my GitHub portfolio.
+- **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
   <sub>Python</sub>
 
-- **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
+- **[Smart-Inbox-to-Calendar-Assistant](https://github.com/pradeep23234545/Smart-Inbox-to-Calendar-Assistant)** — A public project from my GitHub portfolio.
   <sub>Python</sub>
 
 - **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — AI-powered platform that turns a resume, GitHub profile and LinkedIn export into a polished portfolio website.
