@@ -11,6 +11,42 @@ README_PATH = "README.md"
 START = "<!-- AUTO-PROJECTS:START -->"
 END = "<!-- AUTO-PROJECTS:END -->"
 
+# Hand-written summaries and stacks. Repositories not listed here fall back to
+# their GitHub description, language and topics, so new projects still appear.
+PROJECT_DETAILS = {
+    "Emergency-Response-System": {
+        "description": "AI-powered predictive emergency corridor for SIH 2026: predictive routing, green-wave traffic signals, multi-vehicle priority and live hospital ETA alerts.",
+        "tech": ["TypeScript", "React", "Node.js", "Express", "SQLite"],
+    },
+    "Smart-Inbox-to-Calendar-Assistant": {
+        "description": "Autonomous Gmail agent that finds time-bound commitments in email (meetings, exams, due dates) and adds them to Google Calendar with smart reminders.",
+        "tech": ["Python", "Machine Learning", "Gmail API", "Google Calendar API"],
+    },
+    "Steam-Game-Discovery-System": {
+        "tech": ["Python", "Streamlit", "Recommendation System", "Data Analytics"],
+    },
+    "portfolio-from-resume": {
+        "tech": ["TypeScript", "AI", "Web App"],
+    },
+    "retail-demand-forecasting": {
+        "tech": ["Python", "Machine Learning", "Streamlit", "Jupyter"],
+    },
+    "tern-search": {
+        "tech": ["JavaScript", "SearXNG", "Docker", "Valkey"],
+    },
+    "AI-Research-Agent": {
+        "description": "Autonomous deep-research agent that searches the live web, reasons with the ReAct pattern and writes source-cited Markdown reports.",
+        "tech": ["Python", "Groq LLM", "DuckDuckGo Search", "ReAct Agent"],
+    },
+    "pradeep23234545.github.io": {
+        "tech": ["JavaScript", "HTML", "CSS", "GitHub Pages"],
+    },
+    "restaurant-ecommerce-platform": {
+        "description": "The Zaika Loft: responsive restaurant website with a categorised menu, shopping cart, order total and Cash on Delivery / UPI checkout options.",
+        "tech": ["HTML", "CSS", "JavaScript"],
+    },
+}
+
 # Use Python's standard library so no pip dependencies are required.
 query = urlencode({
     "per_page": 100,
@@ -52,36 +88,51 @@ repos.sort(
     key=lambda repo: repo.get("pushed_at") or repo.get("updated_at") or "",
     reverse=True,
 )
-repos = repos[:8]
 
-lines = ["### ⭐ Recent public projects", ""]
+lines = [
+    f"### ⭐ All public projects ({len(repos)})",
+    "",
+    "_Newest first. This list updates itself when I publish a new repository._",
+    "",
+]
 if not repos:
     lines.append("_New public projects will appear here as they are published._")
 else:
     for repo in repos:
         name = repo["name"]
         url = repo["html_url"]
+        extra = PROJECT_DETAILS.get(name, {})
         description = (
-            repo.get("description")
+            extra.get("description")
+            or repo.get("description")
             or "A public project from my GitHub portfolio."
         ).replace("\n", " ").strip()
 
-        language = repo.get("language")
-        topics = repo.get("topics") or []
-        tech = [language] if language else []
-        tech.extend(
-            topic.replace("-", " ").title()
-            for topic in topics[:4]
-            if topic.lower() != (language or "").lower()
-        )
+        tech = extra.get("tech")
+        if not tech:
+            language = repo.get("language")
+            topics = repo.get("topics") or []
+            tech = [language] if language else []
+            tech.extend(
+                topic.replace("-", " ").title()
+                for topic in topics[:4]
+                if topic.lower() != (language or "").lower()
+            )
         tech_text = (
             " · ".join(tech[:5])
             if tech
             else "Explore the repository for details"
         )
 
+        homepage = (repo.get("homepage") or "").strip()
+        if not homepage and repo.get("has_pages"):
+            homepage = f"https://{USERNAME}.github.io/{name}/"
+        if name.lower() == f"{USERNAME}.github.io".lower():
+            homepage = f"https://{USERNAME}.github.io/"
+        demo = f" · [Live demo]({homepage})" if homepage else ""
+
         lines.extend([
-            f"- **[{name}]({url})** — {description}",
+            f"- **[{name}]({url})**{demo} — {description}",
             f"  <sub>{tech_text}</sub>",
             "",
         ])

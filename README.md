@@ -23,7 +23,7 @@ I enjoy turning ideas into practical software — from data-driven applications 
 
 - 🎓 Studying **Computer Science & Business Systems**
 - 💡 Interested in **Artificial Intelligence, Business Systems, Automation, and Web3**
-- 🧩 Building with **Python, Java, C, JavaScript, HTML, CSS, and SQL**
+- 🧩 Building with **Python, Java, C, JavaScript, TypeScript, HTML, CSS, and SQL**
 - 🌱 Strengthening my foundations in **Data Structures, AI/ML, and full-stack development**
 - 🤝 Interested in learning opportunities, open-source contributions, and collaborative projects
 
@@ -48,45 +48,67 @@ Explore my personal portfolio to learn more about me, see my featured projects, 
   <img src="https://img.shields.io/badge/Web3%20%26%20Blockchain-Learning-475569?style=flat-square" alt="Web3 and Blockchain"/>
 </div>
 
+## 🏆 Featured Project
+
+### 🚑 [AI-Powered Predictive Emergency Corridor](https://github.com/pradeep23234545/Emergency-Response-System)
+
+**Smart India Hackathon 2026 · Problem Statement SIH26205 · Team Vision**
+
+A full-stack smart-city command centre that clears the road _before_ an emergency vehicle gets there. It predicts congestion, plans routes on forecast traffic, runs a green wave of traffic signals ahead of ambulances and fire engines, decides who gets the green when several vehicles compete for one junction, and alerts hospitals with a live ETA.
+
+- 🚦 **Green-wave signal control** with pre-clear and restore phases
+- 🧠 **Priority formula** `P = 0.5·S + 0.3·(1/ETA) + 0.2·W` for multi-vehicle coordination
+- 🏥 **Hospital pre-alerts** with automatic bed reservation
+- 📊 **A/B benchmark** measuring about 28% faster emergency response
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
 ## 🚀 Projects & Repositories
 
-*Automatically refreshed from my public GitHub repositories. Recent projects appear here without manually editing this section.*
+*Every public repository, refreshed automatically by GitHub Actions. New projects appear here without editing this section by hand.*
 
 <!-- AUTO-PROJECTS:START -->
-### ⭐ Recent public projects
+### ⭐ All public projects (9)
+
+_Newest first. This list updates itself when I publish a new repository._
+
+- **[Emergency-Response-System](https://github.com/pradeep23234545/Emergency-Response-System)** — AI-powered predictive emergency corridor for SIH 2026: predictive routing, green-wave traffic signals, multi-vehicle priority and live hospital ETA alerts.
+  <sub>TypeScript · React · Node.js · Express · SQLite</sub>
 
 - **[Steam-Game-Discovery-System](https://github.com/pradeep23234545/Steam-Game-Discovery-System)** — An interactive Streamlit-based game recommendation and analytics dashboard using Steam data.
-  <sub>Python</sub>
+  <sub>Python · Streamlit · Recommendation System · Data Analytics</sub>
 
-- **[Smart-Inbox-to-Calendar-Assistant](https://github.com/pradeep23234545/Smart-Inbox-to-Calendar-Assistant)** — A public project from my GitHub portfolio.
-  <sub>Python</sub>
+- **[Smart-Inbox-to-Calendar-Assistant](https://github.com/pradeep23234545/Smart-Inbox-to-Calendar-Assistant)** — Autonomous Gmail agent that finds time-bound commitments in email (meetings, exams, due dates) and adds them to Google Calendar with smart reminders.
+  <sub>Python · Machine Learning · Gmail API · Google Calendar API</sub>
 
 - **[portfolio-from-resume](https://github.com/pradeep23234545/portfolio-from-resume)** — AI-powered platform that turns a resume, GitHub profile and LinkedIn export into a polished portfolio website.
-  <sub>TypeScript</sub>
+  <sub>TypeScript · AI · Web App</sub>
 
 - **[retail-demand-forecasting](https://github.com/pradeep23234545/retail-demand-forecasting)** — DemandCast: ML retail demand forecasting with an interactive Streamlit dashboard, what-if scenarios and inventory alerts.
-  <sub>Jupyter Notebook</sub>
+  <sub>Python · Machine Learning · Streamlit · Jupyter</sub>
 
 - **[tern-search](https://github.com/pradeep23234545/tern-search)** — A self-hosted private search engine powered by SearXNG, Docker, and Valkey, featuring a privacy-focused search experience with a custom Chrome-inspired, responsive interface.
-  <sub>JavaScript</sub>
+  <sub>JavaScript · SearXNG · Docker · Valkey</sub>
 
-- **[pradeep23234545.github.io](https://github.com/pradeep23234545/pradeep23234545.github.io)** — My personal portfolio website
-  <sub>JavaScript</sub>
+- **[pradeep23234545.github.io](https://github.com/pradeep23234545/pradeep23234545.github.io)** · [Live demo](https://pradeep23234545.github.io/) — My personal portfolio website
+  <sub>JavaScript · HTML · CSS · GitHub Pages</sub>
 
-- **[AI-Research-Agent](https://github.com/pradeep23234545/AI-Research-Agent)** — A public project from my GitHub portfolio.
-  <sub>Python</sub>
+- **[AI-Research-Agent](https://github.com/pradeep23234545/AI-Research-Agent)** — Autonomous deep-research agent that searches the live web, reasons with the ReAct pattern and writes source-cited Markdown reports.
+  <sub>Python · Groq LLM · DuckDuckGo Search · ReAct Agent</sub>
 
-- **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** — A public project from my GitHub portfolio.
-  <sub>HTML</sub>
+- **[restaurant-ecommerce-platform](https://github.com/pradeep23234545/restaurant-ecommerce-platform)** · [Live demo](https://pradeep23234545.github.io/restaurant-ecommerce-platform/) — The Zaika Loft: responsive restaurant website with a categorised menu, shopping cart, order total and Cash on Delivery / UPI checkout options.
+  <sub>HTML · CSS · JavaScript</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## 🛠️ Technology Toolbox
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql" alt="Python, Java, C, JavaScript, HTML, CSS and MySQL"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,mysql,sqlite" alt="Python, Java, C, JavaScript, TypeScript, HTML, CSS, MySQL and SQLite"/>
+  <h4>Frameworks &amp; Libraries</h4>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite" alt="React, Node.js, Express, Tailwind CSS and Vite"/>
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code and Linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,linux" alt="Git, GitHub, GitHub Actions, Docker, VS Code and Linux"/>
 </div>
 
 ## 📊 GitHub Snapshot
